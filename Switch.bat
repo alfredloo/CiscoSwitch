@@ -16,6 +16,7 @@ show power inline
 show stack-power detail
 show logging onboard switch active uptime detail
 show cdp neighbor
+show cdp neighbor detail
 show inventory
 show platform
 show environment all
