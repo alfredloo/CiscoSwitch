@@ -6,6 +6,7 @@ show redundancy
 show license all
 show switch detail
 show interface status
+show interface desc
 show interfaces status err-disabled
 show interfaces trunk
 show vlan
