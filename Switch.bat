@@ -21,3 +21,4 @@ show inventory
 show platform
 show environment all
 show clock
+ter len 40
